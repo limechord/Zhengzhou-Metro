@@ -24,17 +24,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="782.54261"
-     inkscape:cy="237.01874"
+     inkscape:zoom="0.25"
+     inkscape:cx="1129.42"
+     inkscape:cy="981.69305"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="M3"
      showgrid="false"
      inkscape:window-width="1317"
      inkscape:window-height="715"
      inkscape:window-x="49"
      inkscape:window-y="31"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata4659">
     <rdf:RDF>
@@ -43,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,10 +53,11 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Background"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
-       style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 0,0 c 799.99998,0 1600,0 2400,0 0,600.00001 0,1200 0,1800 -800,0 -1600.00002,0 -2400,0 C 0,1200 0,600.00001 0,0 z"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 0,0 c 799.99998,0 1600,0 2400,0 0,600.00001 0,1200 0,1800 -800,0 -1600.00002,0 -2400,0 C 0,1200 0,600.00001 0,0 Z"
        id="rect3086-9"
        inkscape:connector-curvature="0" />
   </g>
@@ -63,6 +66,142 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,747.6378)">
+    <g
+       id="M3"
+       transform="translate(0,139.28564)">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ff8000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:18, 6;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 2113.75,506.26896 0,-312.92966 c 0,0 0.062,-40.97705 -42.7448,-40.97705 l -978.8623,0 -278.93378,-483.12749 0,-171.8725"
+         id="path4391"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cscccc" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         r="5.625"
+         cy="152.3622"
+         cx="1159.0605"
+         id="小红门-8-8-0" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         r="5.625"
+         cy="152.3622"
+         cx="1308.5714"
+         id="小红门-8-8-1" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         r="5.625"
+         cy="152.3622"
+         cx="1387.5643"
+         id="小红门-8-8-02" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         r="5.625"
+         cy="152.3622"
+         cx="1482.8572"
+         id="小红门-8-8-7" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         r="5.625"
+         cy="152.3622"
+         cx="1572.1785"
+         id="小红门-8-8-31" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         r="5.625"
+         cy="152.3622"
+         cx="1802.8572"
+         id="小红门-8-8-01" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         r="5.625"
+         cy="152.3622"
+         cx="1713.1428"
+         id="小红门-8-8-91" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         r="5.625"
+         cy="152.3622"
+         cx="1647.1428"
+         id="小红门-8-8-010" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         r="5.625"
+         cy="152.3622"
+         cx="2070.6438"
+         id="小红门-8-8-15" />
+      <circle
+         id="小红门-8-8-8"
+         cx="1017.5815"
+         cy="24.219385"
+         r="5.625"
+         style="fill:#ffffff;stroke:#000000;stroke-width:2" />
+      <circle
+         id="小红门-8-8-9"
+         cx="1047.1428"
+         cy="73.076561"
+         r="5.625"
+         style="fill:#ffffff;stroke:#000000;stroke-width:2" />
+      <circle
+         id="小红门-8-8-3"
+         cx="921.42859"
+         cy="-142.63776"
+         r="5.625"
+         style="fill:#ffffff;stroke:#000000;stroke-width:2" />
+      <circle
+         id="小红门-8-8-2"
+         cx="864.85712"
+         cy="-244.06631"
+         r="5.625"
+         style="fill:#ffffff;stroke:#000000;stroke-width:2" />
+      <circle
+         id="小红门-8-8-6"
+         cx="812.85712"
+         cy="-331.49487"
+         r="5.625"
+         style="fill:#ffffff;stroke:#000000;stroke-width:2" />
+      <circle
+         id="小红门-8-8-68"
+         cx="812.85712"
+         cy="-406.92346"
+         r="5.625"
+         style="fill:#ffffff;stroke:#000000;stroke-width:2" />
+      <circle
+         id="小红门-8-8-4"
+         cx="812.98987"
+         cy="-493.49487"
+         r="5.625"
+         style="fill:#ffffff;stroke:#000000;stroke-width:2" />
+      <circle
+         id="小红门-8-8-66"
+         cx="2113.7144"
+         cy="493.07657"
+         r="5.625"
+         style="fill:#ffffff;stroke:#000000;stroke-width:2" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5383-9-7"
+         y="435.44019"
+         x="2127.3357"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#ff8000;fill-opacity:1"
+           y="435.44019"
+           x="2127.3357"
+           id="tspan5385-5-9"
+           sodipodi:role="line">3</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5383-9-7-7"
+         y="-443.14587"
+         x="776.22943"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#ff8000;fill-opacity:1"
+           y="-443.14587"
+           x="776.22943"
+           id="tspan5385-5-9-1"
+           sodipodi:role="line">3</tspan></text>
+    </g>
     <g
        id="M5">
       <path
@@ -83,15 +222,10 @@
          sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
-         transform="translate(-516.21729,-1673.6943)"
          id="小红门-8-4"
-         cx="1474.8521"
-         cy="1742.673"
+         cx="963.13983"
+         cy="68.978676"
          r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
          transform="translate(-618.24269,-1673.6942)"
@@ -237,26 +371,10 @@
          sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
-         transform="translate(-96.1193,-1674.4237)"
          id="小红门-8-45"
-         cx="1474.8521"
-         cy="1742.673"
+         cx="1386.7328"
+         cy="68.249275"
          r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
-         style="fill:#ffffff;stroke:#000000;stroke-width:2" />
-      <circle
-         transform="translate(2.875598,-1673.4338)"
-         id="小红门-8-25"
-         cx="1474.8521"
-         cy="1742.673"
-         r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
          transform="translate(96.819798,-1673.4338)"
@@ -270,15 +388,10 @@
          sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
-         transform="translate(278.6473,-1673.4135)"
          id="小红门-8-35"
-         cx="1474.8521"
-         cy="1742.673"
+         cx="1801.3779"
+         cy="69.259476"
          r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
          transform="translate(431.18032,-1673.4135)"
@@ -303,26 +416,10 @@
          sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
-         transform="translate(498.79926,-1441.0784)"
-         id="小红门-8-70"
-         cx="1474.8521"
-         cy="1742.673"
-         r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
-         style="fill:#ffffff;stroke:#000000;stroke-width:2" />
-      <circle
-         transform="translate(498.65641,-1371.1545)"
          id="小红门-8-258"
-         cx="1474.8521"
-         cy="1742.673"
+         cx="1973.5084"
+         cy="291.51846"
          r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
          transform="translate(500.88084,-1216.8245)"
@@ -497,12 +594,12 @@
       <text
          sodipodi:linespacing="125%"
          id="text4148"
-         y="446.17224"
-         x="1229.6543"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         y="462.17224"
+         x="1233.6543"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="446.17224"
-           x="1229.6543"
+           y="462.17224"
+           x="1233.6543"
            id="tspan4150"
            sodipodi:role="line">陇海东路</tspan></text>
       <text
@@ -572,82 +669,63 @@
          style="fill:none;stroke:#e60000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 6;stroke-dashoffset:0" />
       <circle
          style="fill:#ffffff;stroke:#000000;stroke-width:2"
-         sodipodi:ry="5.625"
-         sodipodi:rx="5.625"
-         sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
          r="5.625"
-         cy="1742.673"
-         cx="1474.8521"
-         id="小红门"
-         transform="translate(-1075.8418,-2074.6005)" />
+         cy="-331.92752"
+         cx="399.42865"
+         id="小红门" />
       <circle
          style="fill:#ffffff;stroke:#000000;stroke-width:2"
-         sodipodi:ry="5.625"
-         sodipodi:rx="5.625"
-         sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
          r="5.625"
-         cy="1742.673"
-         cx="1474.8521"
-         id="小红门-2"
-         transform="translate(-1075.8418,-1948.372)" />
+         cy="-267.69904"
+         cx="399.42865"
+         id="小红门-2" />
       <circle
          style="fill:#ffffff;stroke:#000000;stroke-width:2"
-         sodipodi:ry="5.625"
-         sodipodi:rx="5.625"
-         sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
          r="5.625"
-         cy="1742.673"
-         cx="1474.8521"
-         id="小红门-4"
-         transform="translate(-1076.8519,-1861.1943)" />
+         cy="-192.52132"
+         cx="399.42865"
+         id="小红门-4" />
       <circle
          style="fill:#ffffff;stroke:#000000;stroke-width:2"
-         sodipodi:ry="5.625"
-         sodipodi:rx="5.625"
-         sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
          r="5.625"
-         cy="1742.673"
-         cx="1474.8521"
-         id="小红门-3"
-         transform="translate(-1075.8418,-1737.9963)" />
+         cy="26.676674"
+         cx="399.42865"
+         id="小红门-3" />
       <circle
          style="fill:#ffffff;stroke:#000000;stroke-width:2"
-         sodipodi:ry="5.625"
-         sodipodi:rx="5.625"
-         sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
          r="5.625"
-         cy="1742.673"
-         cx="1474.8521"
-         id="小红门-7"
-         transform="translate(-1075.8418,-1587.8085)" />
+         cy="154.86447"
+         cx="399.42865"
+         id="小红门-7" />
       <circle
          style="fill:#ffffff;stroke:#000000;stroke-width:2"
-         sodipodi:ry="5.625"
-         sodipodi:rx="5.625"
-         sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-0"
-         transform="translate(-1032.4052,-1480.9353)" />
+         transform="translate(-1032.4052,-1480.9353)"
+         sodipodi:ry="5.625"
+         sodipodi:rx="5.625"
+         sodipodi:cy="1742.673"
+         sodipodi:cx="1474.8521" />
+      <circle
+         id="小红门-82-9"
+         cx="399.42865"
+         cy="-105.13781"
+         r="5.625"
+         style="fill:#ffffff;stroke:#000000;stroke-width:2" />
     </g>
     <g
        id="zh-hans_M1"
-       transform="translate(-138,0)">
+       transform="translate(-129.42857,-0.35714286)">
       <text
          sodipodi:linespacing="125%"
          id="text5446"
          y="249.79077"
          x="857.14288"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium'"
            y="249.79077"
            x="857.14288"
            id="tspan5448"
@@ -655,47 +733,47 @@
       <text
          sodipodi:linespacing="125%"
          id="text5446-4"
-         y="288.92676"
-         x="802.44794"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         y="284.88614"
+         x="791.84131"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
-           y="288.92676"
-           x="802.44794"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium'"
+           y="284.88614"
+           x="791.84131"
            id="tspan5448-7"
            sodipodi:role="line">桐柏路</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text5471"
-         y="239.7908"
-         x="687.14288"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         y="250.90248"
+         x="668.96014"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
-           y="239.7908"
-           x="687.14288"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium'"
+           y="250.90248"
+           x="668.96014"
            id="tspan5473"
            sodipodi:role="line">秦岭路</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text5475"
-         y="296.21927"
-         x="609.28571"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         y="292.17865"
+         x="578.47601"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="296.21927"
-           x="609.28571"
+           y="292.17865"
+           x="578.47601"
            id="tspan5477"
            sodipodi:role="line">西三环</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text5479"
          y="249.7908"
-         x="507.14288"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         x="493.50583"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="249.7908"
-           x="507.14288"
+           x="493.50583"
            id="tspan5481"
            sodipodi:role="line">西流湖</tspan></text>
       <text
@@ -703,7 +781,7 @@
          id="text5483"
          y="371.93362"
          x="952.85712"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="371.93362"
            x="952.85712"
@@ -712,36 +790,34 @@
       <text
          sodipodi:linespacing="125%"
          id="text5487"
-         y="326.21927"
-         x="1032.1429"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         y="333.36212"
+         x="1020.7144"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="326.21927"
-           x="1032.1429"
+           y="333.36212"
+           x="1020.7144"
            id="tspan5489"
            sodipodi:role="line">医学院</tspan></text>
       <text
-         transform="translate(0,-747.6378)"
          sodipodi:linespacing="125%"
          id="text5491"
-         y="1157.1429"
-         x="1136.4286"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         y="408.07657"
+         x="1090.7144"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="1157.1429"
-           x="1136.4286"
+           y="408.07657"
+           x="1090.7144"
            id="tspan5493"
            sodipodi:role="line">郑州火车站</tspan></text>
       <text
-         transform="translate(0,-747.6378)"
          sodipodi:linespacing="125%"
          id="text5495"
-         y="1075"
-         x="1231.4286"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         y="293.07648"
+         x="1130"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="1075"
-           x="1231.4286"
+           y="293.07648"
+           x="1130"
            id="tspan5497"
            sodipodi:role="line">二七广场</tspan></text>
       <text
@@ -749,7 +825,7 @@
          id="text5499"
          y="212.36223"
          x="1226.4286"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="212.36223"
            x="1226.4286"
@@ -760,7 +836,7 @@
          id="text5503"
          y="154.95323"
          x="1283.6196"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="154.95323"
            x="1283.6196"
@@ -769,34 +845,34 @@
       <text
          sodipodi:linespacing="125%"
          id="text5507"
-         y="202.3622"
-         x="1491.8571"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         y="186.80585"
+         x="1455.7946"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="202.3622"
-           x="1491.8571"
+           y="186.80585"
+           x="1455.7946"
            id="tspan5509"
            sodipodi:role="line">燕庄</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text5511"
-         y="140.93361"
-         x="1592.5714"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         y="149.41888"
+         x="1582.4293"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="140.93361"
-           x="1592.5714"
+           y="149.41888"
+           x="1582.4293"
            id="tspan5513"
            sodipodi:role="line">民航路</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text5515"
-         y="194.83682"
-         x="1680.7961"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         y="188.47285"
+         x="1711.2018"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="194.83682"
-           x="1680.7961"
+           y="188.47285"
+           x="1711.2018"
            id="tspan5517"
            sodipodi:role="line">会展中心</tspan></text>
       <text
@@ -804,7 +880,7 @@
          id="text5519"
          y="145.93361"
          x="1820.4286"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="145.93361"
            x="1820.4286"
@@ -815,7 +891,7 @@
          id="text5523"
          y="193.7908"
          x="1907.5714"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="193.7908"
            x="1907.5714"
@@ -826,7 +902,7 @@
          id="text5527"
          y="153.79074"
          x="1979.7144"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="153.79074"
            x="1979.7144"
@@ -837,7 +913,7 @@
          id="text5531"
          y="263.07648"
          x="2016.8569"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="263.07648"
            x="2016.8569"
@@ -848,7 +924,7 @@
          id="text5535"
          y="219.50508"
          x="2180.4285"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="219.50508"
            x="2180.4285"
@@ -859,7 +935,7 @@
          id="text5539"
          y="191.64793"
          x="2302.5715"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="191.64793"
            x="2302.5715"
@@ -873,127 +949,65 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path3060"
-         d="m 2235.1299,176.95871 0,-266.968224"
-         style="fill:none;stroke:#e60000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:18, 6;stroke-dashoffset:0" />
+         d="m 2235.1299,176.95871 0,-460.19452"
+         style="fill:none;stroke:#e60000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:18, 6;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
-         transform="translate(760.14794,-1638.168)"
-         id="小红门-82-9"
-         cx="1474.8521"
-         cy="1742.673"
-         r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
-         style="fill:#ffffff;stroke:#000000;stroke-width:2" />
-      <circle
-         transform="translate(760.86223,-1698.1679)"
          id="小红门-82-1"
-         cx="1474.8521"
-         cy="1742.673"
+         cx="2235.7144"
+         cy="-103.49493"
          r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
-         transform="translate(760.86223,-1768.8822)"
          id="小红门-82-8"
-         cx="1474.8521"
-         cy="1742.673"
+         cx="2235.7144"
+         cy="-192.20923"
          r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
-         transform="translate(760.14795,-1830.3107)"
          id="小红门-82-0"
-         cx="1474.8521"
-         cy="1742.673"
+         cx="2235"
+         cy="-283.15292"
          r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
     </g>
     <g
-       id="g4106">
+       id="M2E-N">
       <path
          sodipodi:nodetypes="ccsc"
-         transform="translate(0,-747.6378)"
          inkscape:connector-curvature="0"
          id="path3090"
-         d="m 759.63471,159.51227 426.28439,0 c 0,0 36.4061,0 36.4061,40.4061 0,56.56854 0,98.99495 0,98.99495"
-         style="fill:none;stroke:#ffd500;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:18, 6;stroke-dashoffset:0" />
+         d="m 759.63471,99.51227 426.28439,0 c 0,0 36.4061,0 36.4061,40.4061 l 0,158.99495"
+         style="fill:none;stroke:#ffd500;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:18, 6;stroke-dashoffset:0;stroke-opacity:1"
+         transform="translate(0,-747.6378)" />
       <circle
-         transform="translate(-719.85205,-2330.3108)"
-         id="小红门-95-9"
-         cx="1474.8521"
-         cy="1742.673"
-         r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
-         style="fill:#ffffff;stroke:#000000;stroke-width:2" />
-      <circle
-         transform="translate(-648.42348,-2331.7393)"
          id="小红门-95-5"
-         cx="1474.8521"
-         cy="1742.673"
+         cx="766.42859"
+         cy="-648.70923"
          r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
-         transform="translate(-559.85205,-2332.4536)"
          id="小红门-95-50"
-         cx="1474.8521"
-         cy="1742.673"
+         cx="869.28577"
+         cy="-648.70923"
          r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
-         transform="translate(-473.42348,-2330.3108)"
          id="小红门-95-2"
-         cx="1474.8521"
-         cy="1742.673"
+         cx="972.14288"
+         cy="-648.70923"
          r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
-         transform="translate(-384.13776,-2331.7393)"
          id="小红门-95-6"
-         cx="1474.8521"
-         cy="1742.673"
+         cx="1075"
+         cy="-648.70923"
          r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
-         transform="translate(-296.99491,-2331.0251)"
          id="小红门-95-4"
-         cx="1474.8521"
-         cy="1742.673"
+         cx="1177.8572"
+         cy="-648.70923"
          r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
          transform="translate(-252.37743,-2271.0251)"
@@ -1014,7 +1028,7 @@
          inkscape:connector-curvature="0"
          id="path3092"
          d="m 1222.7475,-442.52936 0,1350.5739"
-         style="fill:none;stroke:#ffd500;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:18, 6;display:inline;stroke-dashoffset:0" />
+         style="fill:none;stroke:#ffd500;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:18,6;display:inline;stroke-dashoffset:0" />
       <circle
          transform="translate(-251.99491,-2188.1679)"
          id="小红门-95-45"
@@ -1093,26 +1107,16 @@
          sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
-         transform="translate(-252.11746,-1445.3108)"
          id="小红门-95-7"
-         cx="1474.8521"
-         cy="1742.673"
+         cx="1222.7346"
+         cy="291.36218"
          r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
-         transform="translate(-252.62253,-1278.5863)"
          id="小红门-95-06"
-         cx="1474.8521"
-         cy="1742.673"
+         cx="1222.8009"
+         cy="454.08667"
          r="5.625"
-         sodipodi:cx="1474.8521"
-         sodipodi:cy="1742.673"
-         sodipodi:rx="5.625"
-         sodipodi:ry="5.625"
          style="fill:#ffffff;stroke:#000000;stroke-width:2" />
       <circle
          transform="translate(-252.9184,-1186.2342)"
@@ -1180,7 +1184,7 @@
            id="tspan3599"
            x="1192.1429"
            y="879.50513"
-           style="fill:#ffff00">2</tspan></text>
+           style="fill:#ffd500;fill-opacity:1">2</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
@@ -1212,108 +1216,108 @@
       <text
          sodipodi:linespacing="125%"
          id="text3900"
-         y="-199.06636"
-         x="305.71429"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL Mingti2L Big5;-inkscape-font-specification:AR PL Mingti2L Big5"
+         y="-261.06635"
+         x="309.71429"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'AR PL Mingti2L Big5';-inkscape-font-specification:'AR PL Mingti2L Big5';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="-199.06636"
-           x="305.71429"
+           y="-261.06635"
+           x="309.71429"
            id="tspan3902"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium">郑州大学</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium'">郑州大学</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3904"
-         y="-80.494942"
-         x="411.42856"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL Mingti2L Big5;-inkscape-font-specification:AR PL Mingti2L Big5"
+         y="-185.13779"
+         x="409.64285"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'AR PL Mingti2L Big5';-inkscape-font-specification:'AR PL Mingti2L Big5';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="-80.494942"
-           x="411.42856"
+           y="-185.13779"
+           x="409.64285"
            id="tspan3906"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium">科学大道</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium'">科学大道</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3908"
-         y="12.3622"
+         y="-97.923515"
          x="325.71429"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL Mingti2L Big5;-inkscape-font-specification:AR PL Mingti2L Big5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'AR PL Mingti2L Big5';-inkscape-font-specification:'AR PL Mingti2L Big5';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="12.3622"
+           y="-97.923515"
            x="325.71429"
            id="tspan3910"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium">梧桐街</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium'">梧桐街</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3912"
          y="160.93364"
-         x="412.85715"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL Mingti2L Big5;-inkscape-font-specification:AR PL Mingti2L Big5"
+         x="338.57144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'AR PL Mingti2L Big5';-inkscape-font-specification:'AR PL Mingti2L Big5';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="160.93364"
-           x="412.85715"
+           x="338.57144"
            id="tspan3914"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium">铁炉</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium'">铁炉</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3916"
-         y="295.21933"
-         x="414.28571"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:AR PL Mingti2L Big5;-inkscape-font-specification:AR PL Mingti2L Big5"
+         y="288.65335"
+         x="411.76031"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'AR PL Mingti2L Big5';-inkscape-font-specification:'AR PL Mingti2L Big5';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="295.21933"
-           x="414.28571"
+           y="288.65335"
+           x="411.76031"
            id="tspan3918"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium">雪松路</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium'">雪松路</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3934"
+         y="33.157204"
+         x="413.2067"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="33.157204"
+           x="413.2067"
+           id="tspan3936"
+           sodipodi:role="line">化工路</tspan></text>
     </g>
     <g
        id="zh-hans_M1E-E"
        transform="translate(-80,0)">
       <text
          sodipodi:linespacing="125%"
-         id="text3934"
-         y="111.6479"
-         x="2145"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
-         xml:space="preserve"><tspan
-           y="111.6479"
-           x="2145"
-           id="tspan3936"
-           sodipodi:role="line">龙子湖南</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
          id="text3938"
-         y="52.362183"
+         y="-95.637817"
          x="2248.5713"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="52.362183"
+           y="-95.637817"
            x="2248.5713"
            id="tspan3940"
            sodipodi:role="line">龙子湖</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3942"
-         y="-19.066389"
+         y="-185.06639"
          x="2142.8572"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="-19.066389"
+           y="-185.06639"
            x="2142.8572"
            id="tspan3944"
            sodipodi:role="line">龙子湖北</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3946"
-         y="-80.494926"
+         y="-274.49493"
          x="2246.4285"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="-80.494926"
+           y="-274.49493"
            x="2246.4285"
            id="tspan3948"
            sodipodi:role="line">河南大学</tspan></text>
@@ -1341,234 +1345,219 @@
          style="fill:none;stroke:#e60000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <circle
          style="fill:#ffffff;stroke:#000000;stroke-width:2"
-         sodipodi:ry="5.625"
-         sodipodi:rx="5.625"
-         sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-5"
-         transform="translate(-943.51181,-1479.9049)" />
-      <circle
-         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         transform="translate(-943.51181,-1479.9049)"
          sodipodi:ry="5.625"
          sodipodi:rx="5.625"
          sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
+         sodipodi:cx="1474.8521" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-6"
-         transform="translate(-856.63869,-1480.915)" />
-      <circle
-         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         transform="translate(-856.63869,-1480.915)"
          sodipodi:ry="5.625"
          sodipodi:rx="5.625"
          sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
+         sodipodi:cx="1474.8521" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-24"
-         transform="translate(-769.76557,-1480.915)" />
-      <circle
-         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         transform="translate(-769.76557,-1480.915)"
          sodipodi:ry="5.625"
          sodipodi:rx="5.625"
          sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
+         sodipodi:cx="1474.8521" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-9"
-         transform="translate(-678.85185,-1481.9252)" />
-      <circle
-         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         transform="translate(-678.85185,-1481.9252)"
          sodipodi:ry="5.625"
          sodipodi:rx="5.625"
          sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
+         sodipodi:cx="1474.8521" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-1"
-         transform="translate(-587.93812,-1480.915)" />
-      <circle
-         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         transform="translate(-587.93812,-1480.915)"
          sodipodi:ry="5.625"
          sodipodi:rx="5.625"
          sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
+         sodipodi:cx="1474.8521" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-41"
-         transform="translate(-504.09545,-1399.0927)" />
-      <circle
-         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         transform="translate(-504.09545,-1399.0927)"
          sodipodi:ry="5.625"
          sodipodi:rx="5.625"
          sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
+         sodipodi:cx="1474.8521" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-36"
-         transform="translate(-422.2731,-1398.0825)" />
-      <circle
-         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         transform="translate(-422.2731,-1398.0825)"
          sodipodi:ry="5.625"
          sodipodi:rx="5.625"
          sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
+         sodipodi:cx="1474.8521" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-42"
-         transform="translate(-332.36952,-1364.0825)" />
-      <circle
-         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         transform="translate(-332.36952,-1364.0825)"
          sodipodi:ry="5.625"
          sodipodi:rx="5.625"
          sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
+         sodipodi:cx="1474.8521" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-8"
-         transform="translate(-244.99133,-1451.4607)" />
-      <circle
-         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         transform="translate(-244.99133,-1451.4607)"
          sodipodi:ry="5.625"
          sodipodi:rx="5.625"
          sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
+         sodipodi:cx="1474.8521" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-22"
-         transform="translate(-179.33141,-1516.6155)" />
-      <circle
-         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         transform="translate(-179.33141,-1516.6155)"
          sodipodi:ry="5.625"
          sodipodi:rx="5.625"
          sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
+         sodipodi:cx="1474.8521" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-95"
-         transform="translate(-115.18672,-1581.2653)" />
-      <circle
-         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         transform="translate(-115.18672,-1581.2653)"
          sodipodi:ry="5.625"
          sodipodi:rx="5.625"
          sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
+         sodipodi:cx="1474.8521" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
          r="5.625"
-         cy="1742.673"
-         cx="1474.8521"
-         id="小红门-32"
-         transform="translate(39.282843,-1581.7704)" />
+         cy="160.90257"
+         cx="1526.1349"
+         id="小红门-32" />
       <circle
          style="fill:#ffffff;stroke:#000000;stroke-width:2"
-         sodipodi:ry="5.625"
-         sodipodi:rx="5.625"
-         sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
          r="5.625"
-         cy="1742.673"
-         cx="1474.8521"
-         id="小红门-29"
-         transform="translate(140.80317,-1581.2653)" />
+         cy="161.40767"
+         cx="1621.0696"
+         id="小红门-29" />
       <circle
          style="fill:#ffffff;stroke:#000000;stroke-width:2"
-         sodipodi:ry="5.625"
-         sodipodi:rx="5.625"
-         sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
          r="5.625"
-         cy="1742.673"
-         cx="1474.8521"
-         id="小红门-28"
-         transform="translate(236.08927,-1580.65)" />
+         cy="162.02298"
+         cx="1710.2341"
+         id="小红门-28" />
       <circle
          style="fill:#ffffff;stroke:#000000;stroke-width:2"
-         sodipodi:ry="5.625"
-         sodipodi:rx="5.625"
-         sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-38"
-         transform="translate(376.67379,-1581.2653)" />
-      <circle
-         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         transform="translate(376.67379,-1581.2653)"
          sodipodi:ry="5.625"
          sodipodi:rx="5.625"
          sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
+         sodipodi:cx="1474.8521" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-37"
-         transform="translate(465.06214,-1580.2552)" />
-      <circle
-         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         transform="translate(465.06214,-1580.2552)"
          sodipodi:ry="5.625"
          sodipodi:rx="5.625"
          sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
+         sodipodi:cx="1474.8521" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-40"
-         transform="translate(551.97587,-1563.2653)" />
-      <circle
-         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         transform="translate(551.97587,-1563.2653)"
          sodipodi:ry="5.625"
          sodipodi:rx="5.625"
          sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
+         sodipodi:cx="1474.8521" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-75"
-         transform="translate(636.82868,-1504.2552)" />
-      <circle
-         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         transform="translate(636.82868,-1504.2552)"
          sodipodi:ry="5.625"
          sodipodi:rx="5.625"
          sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
+         sodipodi:cx="1474.8521" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-85"
-         transform="translate(734.41537,-1503.9796)" />
-      <circle
-         style="fill:#ffffff;stroke:#000000;stroke-width:2"
+         transform="translate(734.41537,-1503.9796)"
          sodipodi:ry="5.625"
          sodipodi:rx="5.625"
          sodipodi:cy="1742.673"
-         sodipodi:cx="1474.8521"
+         sodipodi:cx="1474.8521" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:2"
          r="5.625"
          cy="1742.673"
          cx="1474.8521"
          id="小红门-82"
-         transform="translate(818.83961,-1566.674)" />
+         transform="translate(818.83961,-1566.674)"
+         sodipodi:ry="5.625"
+         sodipodi:rx="5.625"
+         sodipodi:cy="1742.673"
+         sodipodi:cx="1474.8521" />
       <text
          sodipodi:linespacing="125%"
          id="text5383"
-         y="297.05438"
-         x="564.99933"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         y="297.55945"
+         x="534.1897"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-           y="297.05438"
-           x="564.99933"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#ff0000"
+           y="297.55945"
+           x="534.1897"
            id="tspan5385"
            sodipodi:role="line">1</tspan></text>
       <text
@@ -1597,7 +1586,7 @@
          x="1877.1429"
          y="848.57141" /></text>
     <g
-       id="g3420">
+       id="zh-hans_M5">
       <text
          sodipodi:linespacing="125%"
          id="text3304"
@@ -1614,43 +1603,32 @@
          id="text3308"
          y="94.786049"
          x="1346.4644"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="94.786049"
            x="1346.4644"
            id="tspan3310"
-           sodipodi:role="line">未来北路</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3312"
-         y="55.82592"
-         x="1448.5863"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
-         xml:space="preserve"><tspan
-           y="55.82592"
-           x="1448.5863"
-           id="tspan3314"
-           sodipodi:role="line">众意路</tspan></text>
+           sodipodi:role="line">未来大道北</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3316"
-         y="91.92894"
-         x="1552.9438"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         y="57.078671"
+         x="1587.2891"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="91.92894"
-           x="1552.9438"
+           y="57.078671"
+           x="1587.2891"
            id="tspan3318"
-           sodipodi:role="line">CBD</tspan></text>
+           sodipodi:role="line">如意湖北</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3320"
          y="58.019566"
-         x="1719.74"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         x="1761.74"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="58.019566"
-           x="1719.74"
+           x="1761.74"
            id="tspan3322"
            sodipodi:role="line">农业东路</tspan></text>
       <text
@@ -1677,24 +1655,13 @@
            sodipodi:role="line">金水东路</tspan></text>
       <text
          sodipodi:linespacing="125%"
-         id="text3336"
-         y="310.93362"
-         x="1982.2505"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
-         xml:space="preserve"><tspan
-           y="310.93362"
-           x="1982.2505"
-           id="tspan3338"
-           sodipodi:role="line">康宁路</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
          id="text3340"
-         y="378.32159"
-         x="1906.8409"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         y="319.75015"
+         x="1905.4124"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="378.32159"
-           x="1906.8409"
+           y="319.75015"
+           x="1905.4124"
            id="tspan3342"
            sodipodi:role="line">郑汴路</tspan></text>
       <text
@@ -1702,24 +1669,23 @@
          id="text3344"
          y="533.61737"
          x="1987.1997"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="533.61737"
            x="1987.1997"
            id="tspan3346"
-           sodipodi:role="line">经北二路</tspan></text>
+           sodipodi:role="line">经北一路</tspan></text>
       <text
-         transform="translate(0,-747.6378)"
          sodipodi:linespacing="125%"
          id="text3348"
-         y="1434.2856"
+         y="673.64783"
          x="1871.4286"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="1434.2856"
+           y="673.64783"
            x="1871.4286"
            id="tspan3350"
-           sodipodi:role="line">经开第八大街</tspan></text>
+           sodipodi:role="line">经开第七大街</tspan></text>
       <text
          transform="translate(0,-747.6378)"
          sodipodi:linespacing="125%"
@@ -1745,28 +1711,27 @@
            id="tspan3358"
            sodipodi:role="line">商英街</tspan></text>
       <text
-         transform="translate(0,-747.6378)"
          sodipodi:linespacing="125%"
          id="text3360"
-         y="1374.2856"
-         x="1471.4286"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         y="626.64783"
+         x="1510.4286"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="1374.2856"
-           x="1471.4286"
+           y="626.64783"
+           x="1510.4286"
            id="tspan3362"
            sodipodi:role="line">腾飞路</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3364"
-         y="678.07648"
-         x="1350"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         y="673.0257"
+         x="1338.8883"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="678.07648"
-           x="1350"
+           y="673.0257"
+           x="1338.8883"
            id="tspan3366"
-           sodipodi:role="line">未来路</tspan></text>
+           sodipodi:role="line">未来南路</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3368"
@@ -1893,23 +1858,282 @@
          id="text3412"
          y="55.219368"
          x="968.57141"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="55.219368"
            x="968.57141"
            id="tspan3414"
-           sodipodi:role="line">南阳路</tspan></text>
+           sodipodi:role="line">黄河路西</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3416"
-         y="97.326302"
-         x="1068.0935"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:WenQuanYi Zen Hei;-inkscape-font-specification:WenQuanYi Zen Hei Medium"
+         y="96.821228"
+         x="1050.4159"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           y="97.326302"
-           x="1068.0935"
+           y="96.821228"
+           x="1050.4159"
            id="tspan3418"
-           sodipodi:role="line">文化路</tspan></text>
+           sodipodi:role="line">省行政学院</tspan></text>
+    </g>
+    <g
+       id="zh-hans_M2E-N">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1150.4688"
+         y="-523.30743"
+         id="text4140-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4142-8"
+           x="1150.4688"
+           y="-523.30743">科达街</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1147.6699"
+         y="-660.15118"
+         id="text4140-0-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4142-8-5"
+           x="1147.6699"
+           y="-660.15118">银通路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1044.3077"
+         y="-621.263"
+         id="text4140-0-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4142-8-9"
+           x="1044.3077"
+           y="-621.263">桂圆路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="932.0274"
+         y="-660.9881"
+         id="text4140-0-18"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4142-8-3"
+           x="932.0274"
+           y="-660.9881">文化北路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="830.33881"
+         y="-621.00299"
+         id="text4140-0-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4142-8-93"
+           x="830.33881"
+           y="-621.00299">清华园路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="735.90961"
+         y="-661.83984"
+         id="text4140-0-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4142-8-8"
+           x="735.90961"
+           y="-661.83984">天山路</tspan></text>
+    </g>
+    <g
+       id="zh-hans_M3">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1129.9609"
+         y="319.62784"
+         id="text3316-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7"
+           x="1129.9609"
+           y="319.62784">顺城街</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="976.74615"
+         y="221.45074"
+         id="text3316-0-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7-1"
+           x="976.74615"
+           y="221.45074">太康路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1027.3772"
+         y="167.91522"
+         id="text3316-0-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7-2"
+           x="1027.3772"
+           y="167.91522">大石桥</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="833.77563"
+         y="4.8857889"
+         id="text3316-0-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7-6"
+           x="833.77563"
+           y="4.8857889">农业西路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="874.30609"
+         y="-99.114212"
+         id="text3316-0-00"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7-5"
+           x="874.30609"
+           y="-99.114212">东风西路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="724.26086"
+         y="-186.16446"
+         id="text3316-0-9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7-0"
+           x="724.26086"
+           y="-186.16446">兴隆铺路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="821.00964"
+         y="-260.28577"
+         id="text3316-0-8"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7-28"
+           x="821.00964"
+           y="-260.28577">沙门路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="820.52435"
+         y="-357.69998"
+         id="text3316-0-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7-7"
+           x="820.52435"
+           y="-357.69998">长兴路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1278.7462"
+         y="319.57208"
+         id="text3316-0-01"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7-9"
+           x="1278.7462"
+           y="319.57208">城东路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1350.7253"
+         y="279.73148"
+         id="text3316-0-96"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7-10"
+           x="1350.7253"
+           y="279.73148">未来大道</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1442.3822"
+         y="319.32944"
+         id="text3316-0-07"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7-19"
+           x="1442.3822"
+           y="319.32944">凤台南路</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1483.7131"
+         y="279.75229"
+         id="text3316-0-5"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7-193"
+           x="1483.7131"
+           y="279.75229">中州大道</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1616.7253"
+         y="320.05737"
+         id="text3316-0-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7-05"
+           x="1616.7253"
+           y="320.05737">白庄街</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1666.9264"
+         y="276.41776"
+         id="text3316-0-7"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7-61"
+           x="1666.9264"
+           y="276.41776">黄河南路南</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="1754.4619"
+         y="318.03656"
+         id="text3316-0-87"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7-8"
+           x="1754.4619"
+           y="318.03656">农业南路南</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="2022.3615"
+         y="323.67261"
+         id="text3316-0-97"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7-91"
+           x="2022.3615"
+           y="323.67261">博学路南</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:'WenQuanYi Zen Hei';-inkscape-font-specification:'WenQuanYi Zen Hei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="2121.7964"
+         y="638.42133"
+         id="text3316-0-70"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3318-7-97"
+           x="2121.7964"
+           y="638.42133">航海东路</tspan></text>
     </g>
   </g>
 </svg>
