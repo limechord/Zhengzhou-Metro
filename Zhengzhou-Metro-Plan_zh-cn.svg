@@ -21,6 +21,46 @@
   <defs
      id="defs4">
     <linearGradient
+       id="linearGradient4533"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4535" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4525"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4527" />
+    </linearGradient>
+    <linearGradient
+       id="3"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff8000;stop-opacity:1;"
+         offset="0"
+         id="stop4339" />
+    </linearGradient>
+    <linearGradient
+       id="5"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#009000;stop-opacity:1;"
+         offset="0"
+         id="stop4274" />
+    </linearGradient>
+    <linearGradient
+       id="4"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000080;stop-opacity:1;"
+         offset="0"
+         id="stop4251" />
+    </linearGradient>
+    <linearGradient
        id="1"
        osb:paint="solid">
       <stop
@@ -30,14 +70,18 @@
     </linearGradient>
     <linearGradient
        id="linearGradient4595"
-       osb:paint="solid">
+       x1="1218"
+       y1="954"
+       x2="1242"
+       y2="954"
+       gradientUnits="userSpaceOnUse">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
          id="stop4597" />
     </linearGradient>
     <linearGradient
-       id="linearGradient4586"
+       id="2"
        osb:paint="solid">
       <stop
          style="stop-color:#ffd500;stop-opacity:1;"
@@ -46,7 +90,7 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4586"
+       xlink:href="#2"
        id="linearGradient4590"
        x1="1199.5"
        y1="32.36216"
@@ -62,6 +106,51 @@
        x2="1920"
        y2="989.12134"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#4"
+       id="linearGradient4253"
+       x1="912"
+       y1="807"
+       x2="1446"
+       y2="807"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#5"
+       id="linearGradient4276"
+       x1="714"
+       y1="1047"
+       x2="1704"
+       y2="1047"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#3"
+       id="linearGradient4341"
+       x1="835.75736"
+       y1="957.87868"
+       x2="1806"
+       y2="957.87868"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#1"
+       id="linearGradient4529"
+       x1="474"
+       y1="762"
+       x2="600"
+       y2="762"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#1"
+       id="linearGradient4537"
+       x1="1914"
+       y1="732"
+       x2="1926"
+       y2="732"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -70,18 +159,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="1243.0827"
-     inkscape:cy="1631.2986"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1114.9535"
+     inkscape:cy="839.11974"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer8"
      showgrid="true"
      units="px"
      inkscape:window-width="1362"
      inkscape:window-height="728"
      inkscape:window-x="0"
      inkscape:window-y="18"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="0"
+     inkscape:object-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="false">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -101,26 +194,2226 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="5"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient4276);stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:36, 6;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 780,1176 0,-312 c 0,-12 12,-24 24,-24 l 912,0 c 12,0 24,12 24,24 l 0,312 c 0,12 -12,24 -24,24 l -912,0 c -12,0 -24,-12 -24,-24 z"
+       id="path4270"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="4"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient4253);stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:36, 6;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 900,540 216,0 c 12,0 24,12 24,24 l 0,12 c 0,12 12,24 24,24 l 72,0 c 12,0 24,-12 24,-24 l 0,-12 c 0,-12 12,-24 24,-24 l 132,0 c 12,0 24,12 24,24 l 0,696 180,180"
+       id="path3447"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="3"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient4341);stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:36, 6;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1860,1200 0,-156 c 0,-12 -12,-24 -24,-24 l -756,0 -120,-120 0,-360"
+       id="path4335"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+  <g
      inkscape:label="2"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,747.63784)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient4590);stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1200,692.36216 0,-1296 c 0,-12 -12,-24 -24,-24 l -60,0"
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient4590);stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:36, 6;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1200,632.36216 0,-996 c 0,-24 -12,-24 -24,-24 l -276,0"
        id="path3784"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="1-Construction"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient4529);stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:36, 6;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 600,960 -96,0 c -12,0 -24,-12 -24,-24 l 0,-396"
+       id="path4523"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient4537);stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:36, 6;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1920,900 0,-300"
+       id="path4531"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="1">
+     inkscape:label="1"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient4607);stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1920,900 -720,0 -180,180"
+       d="m 600,960 252,0 c 12,0 24,12 24,24 l 0,72 c 0,12 12,24 24,24 l 120,0 180,-180 468,0 c 12,0 24,12 24,24 l 0,12 c 0,12 12,24 24,24 l 180,0 c 12,0 24,-12 24,-24 l 0,-36"
        id="path4601"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Station"
+     sodipodi:insensitive="true">
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4616"
+       cx="-12"
+       cy="1812"
+       r="6" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4618"
+       transform="translate(1332,-912)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4636"
+       transform="translate(1572,-912)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4640"
+       transform="translate(1392,-912)"
+       width="100%"
+       height="100%" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4644"
+       width="36"
+       height="12"
+       x="-30"
+       y="1830"
+       ry="6" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1152,-852)"
+       id="use4646"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1032,-732)"
+       id="use4650"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4652"
+       transform="translate(972,-732)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(912,-732)"
+       id="use4654"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect4644"
+       id="use3432"
+       transform="translate(1212,-936)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use3434"
+       transform="translate(864,-852)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use3438"
+       transform="translate(1212,-1032)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1212,-1092)"
+       id="use3440"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use3442"
+       transform="translate(1212,-1152)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1212,-1236)"
+       id="use4255"
+       xlink:href="#rect4644"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1212,-996)"
+       id="use4257"
+       xlink:href="#rect4644"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect4644"
+       id="use4259"
+       transform="translate(1452,-996)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1092,-816)"
+       id="use4261"
+       xlink:href="#rect4644"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1452,-936)"
+       id="use4263"
+       xlink:href="#rect4644"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect4644"
+       id="use4267"
+       transform="translate(792,-876)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1632,-912)"
+       id="use4278"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4280"
+       transform="translate(1704,-888)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect4644"
+       id="use4282"
+       transform="translate(1752,-876)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect4644"
+       id="use4303"
+       transform="translate(1212,-816)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4305"
+       transform="translate(1152,-792)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1272,-792)"
+       id="use4307"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4309"
+       transform="translate(1332,-792)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1392,-792)"
+       id="use4311"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1452,-816)"
+       id="use4313"
+       xlink:href="#rect4644"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4315"
+       transform="translate(1452,-852)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1212,-732)"
+       id="use4326"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4328"
+       transform="translate(1212,-672)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1212,-672)"
+       id="use4330"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1212,-636)"
+       id="use4332"
+       xlink:href="#rect4644"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1752,-816)"
+       id="use4343"
+       xlink:href="#rect4644"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4345"
+       transform="translate(1512,-792)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1572,-792)"
+       id="use4347"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4349"
+       transform="translate(1632,-792)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1152,-1236)"
+       id="use4360"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4362"
+       transform="translate(1092,-1272)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1032,-1272)"
+       id="use4364"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4366"
+       transform="translate(912,-1272)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect4644"
+       id="use4368"
+       transform="translate(972,-1296)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4370"
+       transform="translate(1272,-1236)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1308,-1272)"
+       id="use4372"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4374"
+       transform="translate(1428,-1272)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1368,-1272)"
+       id="use4385"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1452,-1212)"
+       id="use4387"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4389"
+       transform="translate(1452,-1152)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1452,-1092)"
+       id="use4391"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4393"
+       transform="translate(1452,-1032)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4397"
+       transform="translate(972,-1212)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(972,-1152)"
+       id="use4399"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4401"
+       transform="translate(972,-1092)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(972,-1032)"
+       id="use4403"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4405"
+       transform="translate(972,-912)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1032,-852)"
+       id="use4407"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4418"
+       transform="translate(1092,-972)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect4644"
+       id="use4420"
+       transform="translate(972,-996)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect4644"
+       id="use4422"
+       transform="translate(1452,-636)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(732,-852)"
+       id="use4424"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4426"
+       transform="translate(672,-852)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(612,-852)"
+       id="use4428"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1872,-852)"
+       id="use4439"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4441"
+       transform="translate(1932,-912)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(912,-972)"
+       id="use4443"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4445"
+       transform="translate(852,-972)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4447"
+       transform="translate(792,-792)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(792,-732)"
+       id="use4449"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4451"
+       transform="translate(792,-672)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(852,-612)"
+       id="use4453"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4455"
+       transform="translate(924,-612)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(996,-612)"
+       id="use4457"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4459"
+       transform="translate(1068,-612)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1140,-612)"
+       id="use4461"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4463"
+       transform="translate(1296,-612)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1368,-612)"
+       id="use4465"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4467"
+       transform="translate(1524,-612)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1596,-612)"
+       id="use4469"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4471"
+       transform="translate(1668,-612)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1452,-732)"
+       id="use4473"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1752,-672)"
+       id="use4475"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1212,-1272)"
+       id="use4486"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4488"
+       transform="translate(1212,-1332)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1212,-1392)"
+       id="use4490"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1272,-972)"
+       id="use4492"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4494"
+       transform="translate(1332,-972)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1572,-972)"
+       id="use4496"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4498"
+       transform="translate(1692,-972)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1212,-552)"
+       id="use4500"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4502"
+       transform="translate(1212,-492)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1212,-432)"
+       id="use4504"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4506"
+       transform="translate(1152,-1452)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1092,-1452)"
+       id="use4508"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4510"
+       transform="translate(1032,-1452)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(972,-1452)"
+       id="use4512"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4514"
+       transform="translate(912,-1452)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4516"
+       transform="translate(1872,-768)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1872,-612)"
+       id="use4518"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4539"
+       transform="translate(1452,-552)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1512,-492)"
+       id="use4541"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4543"
+       transform="translate(1572,-432)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1632,-372)"
+       id="use4545"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1752,-912)"
+       id="use5179"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use5295"
+       transform="translate(492,-1152)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(492,-1212)"
+       id="use5297"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use5299"
+       transform="translate(492,-1272)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(492,-1080)"
+       id="use5301"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use5303"
+       transform="translate(492,-1008)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(492,-936)"
+       id="use5305"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1932,-1152)"
+       id="use5307"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use5309"
+       transform="translate(1932,-1212)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use5311"
+       transform="translate(1932,-1032)"
+       width="100%"
+       height="100%" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Name">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1205.9219"
+       y="823.22656"
+       id="text4116"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4118"
+         x="1205.9219"
+         y="823.22656">黄河路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1133.9219"
+       y="787.14844"
+       id="text4120"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4122"
+         x="1133.9219"
+         y="787.14844">农业路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1205.7656"
+       y="727.22656"
+       id="text4124"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4126"
+         x="1205.7656"
+         y="727.22656">东风路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1133.8828"
+       y="667.22656"
+       id="text4128"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4130"
+         x="1133.8828"
+         y="667.22656">北环路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1205.5312"
+       y="631.22656"
+       id="text4132"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4134"
+         x="1205.5312"
+         y="631.22656">国基路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1134"
+       y="535.26562"
+       id="text4136"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4138"
+         x="1134"
+         y="535.26562">新龙路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1218.4688"
+       y="487.1875"
+       id="text4140"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4142"
+         x="1218.4688"
+         y="487.1875">广播台</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1205.8047"
+       y="1003.1875"
+       id="text4144"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4146"
+         x="1205.8047"
+         y="1003.1875">东大街</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1207.6484"
+       y="1087.2266"
+       id="text4148"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4150"
+         x="1207.6484"
+         y="1087.2266">陇海东路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1111.8047"
+       y="1147.2266"
+       id="text4152"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4154"
+         x="1111.8047"
+         y="1147.2266">帆布厂街</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1111.9609"
+       y="1183.2656"
+       id="text4156"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4158"
+         x="1111.9609"
+         y="1183.2656">航海东路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1121.8828"
+       y="1267.2266"
+       id="text4160"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4162"
+         x="1121.8828"
+         y="1267.2266">长江路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1217.9219"
+       y="1327.2266"
+       id="text4164"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4166"
+         x="1217.9219"
+         y="1327.2266">南环路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1121.3359"
+       y="1387.1875"
+       id="text4168"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4170"
+         x="1121.3359"
+         y="1387.1875">向阳路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4140-0"
+       y="427.22656"
+       x="1122.1953"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="427.22656"
+         x="1122.1953"
+         id="tspan4142-8"
+         sodipodi:role="line">科达街</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4140-0-1"
+       y="343.22656"
+       x="1122.0391"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="343.22656"
+         x="1122.0391"
+         id="tspan4142-8-5"
+         sodipodi:role="line">银通路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4140-0-0"
+       y="391.22656"
+       x="1050.0781"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="391.22656"
+         x="1050.0781"
+         id="tspan4142-8-9"
+         sodipodi:role="line">桂圆路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4140-0-18"
+       y="343.14844"
+       x="980.03906"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="343.14844"
+         x="980.03906"
+         id="tspan4142-8-3"
+         sodipodi:role="line">文化北路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4140-0-2"
+       y="391.22656"
+       x="919.96094"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="391.22656"
+         x="919.96094"
+         id="tspan4142-8-93"
+         sodipodi:role="line">清华园路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4140-0-4"
+       y="343.14844"
+       x="869.88281"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="343.14844"
+         x="869.88281"
+         id="tspan4142-8-8"
+         sodipodi:role="line">天山路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5446"
+       y="943.1875"
+       x="822.625"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium'"
+         y="943.1875"
+         x="822.625"
+         id="tspan5448"
+         sodipodi:role="line">碧沙岗</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5446-4"
+       y="991.22656"
+       x="714.03906"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium'"
+         y="991.22656"
+         x="714.03906"
+         id="tspan5448-7"
+         sodipodi:role="line">桐柏路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5471"
+       y="943.14844"
+       x="690"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium'"
+         y="943.14844"
+         x="690"
+         id="tspan5473"
+         sodipodi:role="line">秦岭路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5475"
+       y="990.875"
+       x="629.92188"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="990.875"
+         x="629.92188"
+         id="tspan5477"
+         sodipodi:role="line">西三环</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5479"
+       y="943.1875"
+       x="570.23438"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="943.1875"
+         x="570.23438"
+         id="tspan5481"
+         sodipodi:role="line">西流湖</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5483"
+       y="1111.1484"
+       x="860.3125"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1111.1484"
+         x="860.3125"
+         id="tspan5485"
+         sodipodi:role="line">绿城广场</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5487"
+       y="1063.2656"
+       x="929.41406"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1063.2656"
+         x="929.41406"
+         id="tspan5489"
+         sodipodi:role="line">医学院</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5491"
+       y="1111.1094"
+       x="969.76562"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1111.1094"
+         x="969.76562"
+         id="tspan5493"
+         sodipodi:role="line">郑州火车站</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5495"
+       y="1027.1875"
+       x="980.27344"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1027.1875"
+         x="980.27344"
+         id="tspan5497"
+         sodipodi:role="line">二七广场</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5499"
+       y="943.22656"
+       x="1086"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="943.22656"
+         x="1086"
+         id="tspan5501"
+         sodipodi:role="line">人民路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5503"
+       y="883.10938"
+       x="1134.8594"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="883.10938"
+         x="1134.8594"
+         id="tspan5505"
+         sodipodi:role="line">紫荆山</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5507"
+       y="931.1875"
+       x="1300.2344"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="931.1875"
+         x="1300.2344"
+         id="tspan5509"
+         sodipodi:role="line">燕庄</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5511"
+       y="883.26562"
+       x="1349.0234"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="883.26562"
+         x="1349.0234"
+         id="tspan5513"
+         sodipodi:role="line">民航路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5515"
+       y="931.1875"
+       x="1351.8828"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="931.1875"
+         x="1351.8828"
+         id="tspan5517"
+         sodipodi:role="line">会展中心</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5519"
+       y="931.22656"
+       x="1507.9219"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="931.22656"
+         x="1507.9219"
+         id="tspan5521"
+         sodipodi:role="line">黄河南路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5523"
+       y="883.14844"
+       x="1579.9219"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="883.14844"
+         x="1579.9219"
+         id="tspan5525"
+         sodipodi:role="line">农业南路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5527"
+       y="943.22656"
+       x="1603.7656"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="943.22656"
+         x="1603.7656"
+         id="tspan5529"
+         sodipodi:role="line">东风南路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5531"
+       y="991.07031"
+       x="1747.7656"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="991.07031"
+         x="1747.7656"
+         id="tspan5533"
+         sodipodi:role="line">郑州东站</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5535"
+       y="943.22656"
+       x="1829.9219"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="943.22656"
+         x="1829.9219"
+         id="tspan5537"
+         sodipodi:role="line">博学路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5539"
+       y="907.1875"
+       x="1929.8047"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="907.1875"
+         x="1929.8047"
+         id="tspan5541"
+         sodipodi:role="line">市体育中心</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0"
+       y="1051.1094"
+       x="1110.0391"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1051.1094"
+         x="1110.0391"
+         id="tspan3318-7"
+         sodipodi:role="line">顺城街</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0-2"
+       y="979.26562"
+       x="954"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="979.26562"
+         x="954"
+         id="tspan3318-7-1"
+         sodipodi:role="line">太康路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0-0"
+       y="907.14844"
+       x="977.96094"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="907.14844"
+         x="977.96094"
+         id="tspan3318-7-2"
+         sodipodi:role="line">大石桥</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0-4"
+       y="787.14844"
+       x="871.92188"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="787.14844"
+         x="871.92188"
+         id="tspan3318-7-6"
+         sodipodi:role="line">农业西路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0-00"
+       y="727.22656"
+       x="967.76562"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="727.22656"
+         x="967.76562"
+         id="tspan3318-7-5"
+         sodipodi:role="line">东风西路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0-9"
+       y="667.22656"
+       x="871.80469"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="667.22656"
+         x="871.80469"
+         id="tspan3318-7-0"
+         sodipodi:role="line">兴隆铺路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0-8"
+       y="607.26562"
+       x="965.92188"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="607.26562"
+         x="965.92188"
+         id="tspan3318-7-28"
+         sodipodi:role="line">沙门路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0-1"
+       y="523.14844"
+       x="929.88281"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="523.14844"
+         x="929.88281"
+         id="tspan3318-7-7"
+         sodipodi:role="line">长兴路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0-01"
+       y="1051.1484"
+       x="1230"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1051.1484"
+         x="1230"
+         id="tspan3318-7-9"
+         sodipodi:role="line">城东路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0-96"
+       y="1003.1875"
+       x="1280.0391"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1003.1875"
+         x="1280.0391"
+         id="tspan3318-7-10"
+         sodipodi:role="line">未来大道</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0-07"
+       y="1051.2266"
+       x="1340.0391"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1051.2266"
+         x="1340.0391"
+         id="tspan3318-7-19"
+         sodipodi:role="line">凤台南路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0-5"
+       y="1051.1094"
+       x="1447.375"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1051.1094"
+         x="1447.375"
+         id="tspan3318-7-193"
+         sodipodi:role="line">中州大道</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0-3"
+       y="1003.1875"
+       x="1469.1406"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1003.1875"
+         x="1469.1406"
+         id="tspan3318-7-05"
+         sodipodi:role="line">白庄街</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0-7"
+       y="1051.2266"
+       x="1534"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1051.2266"
+         x="1534"
+         id="tspan3318-7-61"
+         sodipodi:role="line">黄河南路南</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0-87"
+       y="1003.1484"
+       x="1570"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1003.1484"
+         x="1570"
+         id="tspan3318-7-8"
+         sodipodi:role="line">农业南路南</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0-97"
+       y="1051.2266"
+       x="1880"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1051.2266"
+         x="1880"
+         id="tspan3318-7-91"
+         sodipodi:role="line">博学路南</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316-0-70"
+       y="1207.2656"
+       x="1879.9609"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1207.2656"
+         x="1879.9609"
+         id="tspan3318-7-97"
+         sodipodi:role="line">航海东路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1229.9219"
+       y="871.22656"
+       id="text3304"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3306"
+         x="1229.9219"
+         y="871.22656">经三路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1282.0391"
+       y="823.1875"
+       id="text3308"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3310"
+         x="1282.0391"
+         y="823.1875">未来大道北</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1447.9609"
+       y="871.26562"
+       id="text3316"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318"
+         x="1447.9609"
+         y="871.26562">如意湖北</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1531.9219"
+       y="823.14844"
+       id="text3320"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3322"
+         x="1531.9219"
+         y="823.14844">农业东路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1649.8828"
+       y="823.22656"
+       id="text3328"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3330"
+         x="1649.8828"
+         y="823.22656">心怡路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1759.9219"
+       y="907.22656"
+       id="text3332"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3334"
+         x="1759.9219"
+         y="907.22656">金水东路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1673.6875"
+       y="1051.1875"
+       id="text3340"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3342"
+         x="1673.6875"
+         y="1051.1875">郑汴路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1759.9219"
+       y="1147.2266"
+       id="text3344"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3346"
+         x="1759.9219"
+         y="1147.2266">经北一路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1655.9609"
+       y="1231.1875"
+       id="text3348"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3350"
+         x="1655.9609"
+         y="1231.1875">经开第七大街</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1523.9609"
+       y="1183.1875"
+       id="text3352"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3354"
+         x="1523.9609"
+         y="1183.1875">经开第三大街</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1481.7266"
+       y="1231.2266"
+       id="text3356"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3358"
+         x="1481.7266"
+         y="1231.2266">商英街</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1373.9219"
+       y="1183.1875"
+       id="text3360"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3362"
+         x="1373.9219"
+         y="1183.1875">腾飞路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1316"
+       y="1231.2266"
+       id="text3364"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3366"
+         x="1316"
+         y="1231.2266">未来南路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1244"
+       y="1183.2266"
+       id="text3368"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3370"
+         x="1244"
+         y="1183.2266">魏庄西街</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1097.9219"
+       y="1231.1875"
+       id="text3372"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3374"
+         x="1097.9219"
+         y="1231.1875">冯庄路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1015.9219"
+       y="1183.1875"
+       id="text3376"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3378"
+         x="1015.9219"
+         y="1183.1875">京广南路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="944"
+       y="1231.2656"
+       id="text3380"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3382"
+         x="944"
+         y="1231.2656">大学南路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="871.80469"
+       y="1183.1484"
+       id="text3384"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3386"
+         x="871.80469"
+         y="1183.1484">嵩山南路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="809.84375"
+       y="1231.2266"
+       id="text3388"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3390"
+         x="809.84375"
+         y="1231.2266">工人路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="702"
+       y="1147.2266"
+       id="text3392"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3394"
+         x="702"
+         y="1147.2266">淮河路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="679.64844"
+       y="1087.2266"
+       id="text3396"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3398"
+         x="679.64844"
+         y="1087.2266">陇海西路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="701.33594"
+       y="1027.1484"
+       id="text3400"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3402"
+         x="701.33594"
+         y="1027.1484">中原路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="797.88281"
+       y="871.1875"
+       id="text3404"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3406"
+         x="797.88281"
+         y="871.1875">西站街</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="869.92188"
+       y="823.1875"
+       id="text3408"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3410"
+         x="869.92188"
+         y="823.1875">沙口路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="968.07812"
+       y="871.22656"
+       id="text3412"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3414"
+         x="968.07812"
+         y="871.22656">黄河路西</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1029.9219"
+       y="823.22656"
+       id="text3416"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3418"
+         x="1029.9219"
+         y="823.22656">省行政学院</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="833.80469"
+       y="547.22656"
+       id="text3316-0-1-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4"
+         x="833.80469"
+         y="547.22656">安顺路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="989.72656"
+       y="571.14844"
+       id="text3316-0-1-8-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-6"
+         x="989.72656"
+         y="571.14844">丰收路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1049.7266"
+       y="523.14844"
+       id="text3316-0-1-8-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-67"
+         x="1049.7266"
+         y="523.14844">丰庆路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1074.0391"
+       y="583.14844"
+       id="text3316-0-1-8-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-4"
+         x="1074.0391"
+         y="583.14844">文化路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1268"
+       y="583.14844"
+       id="text3316-0-1-8-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-3"
+         x="1268"
+         y="583.14844">龙源一街</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1244"
+       y="523.14844"
+       id="text3316-0-1-8-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-9"
+         x="1244"
+         y="523.14844">龙源五街</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1340"
+       y="523.14844"
+       id="text3316-0-1-8-83"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-2"
+         x="1340"
+         y="523.14844">龙源八街</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1438"
+       y="535.14844"
+       id="text3316-0-1-8-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-46"
+         x="1438"
+         y="535.14844">龙源十一街</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1446.5859"
+       y="607.14844"
+       id="text3316-0-1-8-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-7"
+         x="1446.5859"
+         y="607.14844">龙湖岛</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1362.0781"
+       y="667.1875"
+       id="text3316-0-1-8-29"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-5"
+         x="1362.0781"
+         y="667.1875">鑫融路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1457.9219"
+       y="727.1875"
+       id="text3316-0-1-8-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-0"
+         x="1457.9219"
+         y="727.1875">朝阳路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1339.7656"
+       y="787.22656"
+       id="text3316-0-1-8-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-8"
+         x="1339.7656"
+         y="787.22656">东风东路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1361.6875"
+       y="967.14844"
+       id="text3316-0-1-8-94"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-07"
+         x="1361.6875"
+         y="967.14844">商鼎路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1457.8828"
+       y="1087.1094"
+       id="text3316-0-1-8-13"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-55"
+         x="1457.8828"
+         y="1087.1094">货栈街</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1351.9219"
+       y="1267.1875"
+       id="text3316-0-1-8-12"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-66"
+         x="1351.9219"
+         y="1267.1875">果园南路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1517.9219"
+       y="1327.1484"
+       id="text3316-0-1-8-31"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-1"
+         x="1517.9219"
+         y="1327.1484">金贷路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1481.9219"
+       y="1387.2266"
+       id="text3316-0-1-8-20"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-663"
+         x="1481.9219"
+         y="1387.2266">星火路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1639.9609"
+       y="1447.2266"
+       id="text3316-0-1-8-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3318-7-7-4-45"
+         x="1639.9609"
+         y="1447.2266">河西北路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'AR PL Mingti2L Big5';-inkscape-font-specification:'AR PL Mingti2L Big5';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="492.03906"
+       y="547.26562"
+       id="text3896"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium'"
+         sodipodi:role="line"
+         id="tspan3898"
+         x="492.03906"
+         y="547.26562">河南工业大学</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'AR PL Mingti2L Big5';-inkscape-font-specification:'AR PL Mingti2L Big5';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="379.76562"
+       y="607.14844"
+       id="text3900"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium'"
+         sodipodi:role="line"
+         id="tspan3902"
+         x="379.76562"
+         y="607.14844">郑州大学</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'AR PL Mingti2L Big5';-inkscape-font-specification:'AR PL Mingti2L Big5';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="488.19531"
+       y="667.26562"
+       id="text3904"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium'"
+         sodipodi:role="line"
+         id="tspan3906"
+         x="488.19531"
+         y="667.26562">科学大道</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'AR PL Mingti2L Big5';-inkscape-font-specification:'AR PL Mingti2L Big5';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="402.07812"
+       y="739.1875"
+       id="text3908"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium'"
+         sodipodi:role="line"
+         id="tspan3910"
+         x="402.07812"
+         y="739.1875">梧桐街</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'AR PL Mingti2L Big5';-inkscape-font-specification:'AR PL Mingti2L Big5';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="424.39062"
+       y="883.1875"
+       id="text3912"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium'"
+         sodipodi:role="line"
+         id="tspan3914"
+         x="424.39062"
+         y="883.1875">铁炉</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'AR PL Mingti2L Big5';-inkscape-font-specification:'AR PL Mingti2L Big5';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="509.76562"
+       y="991.22656"
+       id="text3916"
+       sodipodi:linespacing="125%"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium'"
+         sodipodi:role="line"
+         id="tspan3918"
+         x="509.76562"
+         y="991.22656">雪松路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="486.03906"
+       y="811.22656"
+       id="text3934"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3936"
+         x="486.03906"
+         y="811.22656">化工路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1938.3516"
+       y="787.14844"
+       id="text3938"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3940"
+         x="1938.3516"
+         y="787.14844">龙子湖</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1820"
+       y="667.14844"
+       id="text3942"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3944"
+         x="1820"
+         y="667.14844">龙子湖北</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1940.0391"
+       y="607.26562"
+       id="text3946"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3948"
+         x="1940.0391"
+         y="607.26562">河南大学</tspan></text>
   </g>
 </svg>
