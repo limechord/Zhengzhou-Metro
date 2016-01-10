@@ -157,16 +157,16 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="1144.7805"
-     inkscape:cy="1196.8779"
+     inkscape:cx="805.36923"
+     inkscape:cy="1366.5835"
      inkscape:document-units="px"
      inkscape:current-layer="layer8"
      showgrid="true"
      units="px"
-     inkscape:window-width="679"
+     inkscape:window-width="1362"
      inkscape:window-height="728"
      inkscape:window-x="0"
      inkscape:window-y="18"
@@ -1354,11 +1354,11 @@
        sodipodi:linespacing="125%"
        id="text4140-0-1"
        y="343.22656"
-       x="1122.0391"
+       x="1110.0391"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="343.22656"
-         x="1122.0391"
+         x="1110.0391"
          id="tspan4142-8-5"
          sodipodi:role="line">银通路</tspan></text>
     <text
@@ -2415,5 +2415,28 @@
          id="tspan3948"
          x="1940.0391"
          y="607.26562">河南大学</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="360"
+       y="252"
+       id="text5404"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5406"
+         x="360"
+         y="252" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="312.1875"
+       y="316.96875"
+       id="text3876"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3878"
+         x="312.1875"
+         y="316.96875"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000381px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start">郑州地铁规划</tspan></text>
   </g>
 </svg>
