@@ -21,6 +21,14 @@
   <defs
      id="defs4">
     <linearGradient
+       id="linearGradient4941"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4943" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient4533"
        osb:paint="solid">
       <stop
@@ -151,6 +159,15 @@
        x2="1926"
        y2="732"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#2"
+       id="linearGradient4945"
+       x1="1197"
+       y1="1561.5"
+       x2="2340"
+       y2="1561.5"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -159,9 +176,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="805.36923"
-     inkscape:cy="1366.5835"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="871.54731"
+     inkscape:cy="953.38543"
      inkscape:document-units="px"
      inkscape:current-layer="layer8"
      showgrid="true"
@@ -172,8 +189,8 @@
      inkscape:window-y="18"
      inkscape:window-maximized="0"
      inkscape:object-nodes="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="false"
      inkscape:snap-text-baseline="false">
     <inkscape:grid
        type="xygrid"
@@ -189,7 +206,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -228,6 +245,18 @@
        id="path4335"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="2-Construction"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient4945);stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:36, 6;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1200,1380 0,156 c 0,12 12,24 24,24 l 432,0 c 12,0 24,12 24,24 l 0,72 c 0,12 12,24 24,24 l 276,0"
+       id="path4139"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
   </g>
   <g
      inkscape:label="2"
@@ -1180,6 +1209,158 @@
        transform="translate(1932,-1032)"
        width="100%"
        height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4947"
+       transform="translate(1212,-396)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1212,-360)"
+       id="use4949"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4951"
+       transform="translate(1212,-324)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1212,-276)"
+       id="use4953"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4955"
+       transform="translate(1272,-252)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1332,-252)"
+       id="use4957"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4959"
+       transform="translate(1392,-252)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1452,-252)"
+       id="use4961"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4963"
+       transform="translate(1512,-252)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1572,-252)"
+       id="use4965"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4967"
+       transform="translate(1632,-252)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1692,-228)"
+       id="use4969"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4971"
+       transform="translate(1692,-192)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1692,-155.99995)"
+       id="use4973"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4975"
+       transform="translate(1752,-131.99995)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1812,-131.99995)"
+       id="use4977"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4979"
+       transform="translate(1872,-131.99995)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(1932,-131.99995)"
+       id="use4981"
+       xlink:href="#path4616"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path4616"
+       id="use4983"
+       transform="translate(1992,-131.99995)"
+       width="100%"
+       height="100%" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1309,36 +1490,36 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="1143.8438"
-       y="1267.2266"
+       x="1143.86"
+       y="1266.0699"
        id="text4160"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4162"
-         x="1143.8438"
-         y="1267.2266">花寨</tspan></text>
+         x="1143.86"
+         y="1266.0699">花寨</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="1217.9219"
-       y="1327.2266"
+       x="1217.65"
+       y="1325.95"
        id="text4164"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4166"
-         x="1217.9219"
-         y="1327.2266">南三环</tspan></text>
+         x="1217.65"
+         y="1325.95">南三环</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="1121.3359"
-       y="1387.1875"
+       x="1121.8101"
+       y="1385.88"
        id="text4168"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4170"
-         x="1121.3359"
-         y="1387.1875">战马屯</tspan></text>
+         x="1121.8101"
+         y="1385.88">战马屯</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4140-0"
@@ -2438,5 +2619,454 @@
          x="312.1875"
          y="316.96875"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:48.00000381px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start">郑州地铁规划</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4985"
+       y="1421.95"
+       x="1217.65"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1421.95"
+         x="1217.65"
+         id="tspan4987"
+         sodipodi:role="line">南四环</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1099.9"
+       y="1457.87"
+       id="text4989"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4991"
+         x="1099.9"
+         y="1457.87">绕城高速</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4993"
+       y="1494.05"
+       x="1217.9"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1494.05"
+         x="1217.9"
+         id="tspan4995"
+         sodipodi:role="line">祥云路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1099.86"
+       y="1541.9301"
+       id="text4997"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4999"
+         x="1099.86"
+         y="1541.9301">双湖大道</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5001"
+       y="1542"
+       x="1229.78"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1542"
+         x="1229.78"
+         id="tspan5003"
+         sodipodi:role="line">鸿鹄路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1280.13"
+       y="1590.04"
+       id="text5005"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5007"
+         x="1280.13"
+         y="1590.04">华南城西</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5009"
+       y="1542.04"
+       x="1349.84"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1542.04"
+         x="1349.84"
+         id="tspan5011"
+         sodipodi:role="line">华南城</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1400.22"
+       y="1590.04"
+       id="text5013"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5015"
+         x="1400.22"
+         y="1590.04">华南城东</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5017"
+       y="1542.09"
+       x="1479.92"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1542.09"
+         x="1479.92"
+         id="tspan5019"
+         sodipodi:role="line">孟庄</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1520.46"
+       y="1589.86"
+       id="text5021"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5023"
+         x="1520.46"
+         y="1589.86">机场城际</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5025"
+       y="1542.03"
+       x="1579.88"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1542.03"
+         x="1579.88"
+         id="tspan5027"
+         sodipodi:role="line">郑港三街</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1687.9"
+       y="1590.02"
+       id="text5029"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5031"
+         x="1687.9"
+         y="1590.02">郑港四路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5033"
+       y="1626.02"
+       x="1591.9"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1626.02"
+         x="1591.9"
+         id="tspan5035"
+         sodipodi:role="line">郑港六路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1709.65"
+       y="1709.95"
+       id="text5037"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5039"
+         x="1709.65"
+         y="1709.95">机场</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5041"
+       y="1662.02"
+       x="1591.9"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1662.02"
+         x="1591.9"
+         id="tspan5043"
+         sodipodi:role="line">郑港九路</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5045"
+       y="1661.9301"
+       x="1770.28"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1661.9301"
+         x="1770.28"
+         id="tspan5047"
+         sodipodi:role="line">机场东</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1819.86"
+       y="1710.08"
+       id="text5049"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5051"
+         x="1819.86"
+         y="1710.08">站场四街</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5053"
+       y="1661.95"
+       x="1879.96"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1661.95"
+         x="1879.96"
+         id="tspan5055"
+         sodipodi:role="line">机场南路</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="1997.65"
+       y="1685.95"
+       id="text5057"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5059"
+         x="1997.65"
+         y="1685.95">郑州南站</tspan></text>
+    <g
+       id="g4538-6"
+       transform="translate(1137.25,955.13783)">
+      <rect
+         style="opacity:1;fill:#e60000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4540-4"
+         width="31.999992"
+         height="31.999992"
+         x="750.75"
+         y="-411.13782"
+         ry="6.3999982" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4542-0"
+         y="-384.20276"
+         x="756.94287"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1"
+           y="-384.20276"
+           x="756.94287"
+           id="tspan4544-8"
+           sodipodi:role="line">1</tspan></text>
+    </g>
+    <g
+       id="g4538-6-0"
+       transform="translate(-270.75,883.13783)">
+      <rect
+         style="opacity:1;fill:#e60000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4540-4-9"
+         width="31.999992"
+         height="31.999992"
+         x="750.75"
+         y="-411.13782"
+         ry="6.3999982" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4542-0-1"
+         y="-384.20276"
+         x="756.94287"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1"
+           y="-384.20276"
+           x="756.94287"
+           id="tspan4544-8-5"
+           sodipodi:role="line">1</tspan></text>
+    </g>
+    <g
+       id="g4538-6-9-3-5"
+       transform="translate(1229.25,2035.1378)">
+      <rect
+         style="opacity:1;fill:#ffd500;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4540-4-0-67-7"
+         width="31.999992"
+         height="31.999992"
+         x="750.75"
+         y="-411.13782"
+         ry="6.3999982" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4542-0-1-4-6"
+         y="-384.005"
+         x="757.60938"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1"
+           y="-384.005"
+           x="757.60938"
+           id="tspan4544-8-1-1-7"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       id="g4538-6-9-3-5-0"
+       transform="translate(101.25,775.13783)">
+      <rect
+         style="opacity:1;fill:#ffd500;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4540-4-0-67-7-0"
+         width="31.999992"
+         height="31.999992"
+         x="750.75"
+         y="-411.13782"
+         ry="6.3999982" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4542-0-1-4-6-1"
+         y="-384.005"
+         x="757.60938"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1"
+           y="-384.005"
+           x="757.60938"
+           id="tspan4544-8-1-1-7-2"
+           sodipodi:role="line">2</tspan></text>
+    </g>
+    <g
+       id="g4538-6-9-3-53-6"
+       transform="translate(1077.25,1639.1378)">
+      <rect
+         style="opacity:1;fill:#ff8000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4540-4-0-67-4-4"
+         width="31.999992"
+         height="31.999992"
+         x="750.75"
+         y="-411.13782"
+         ry="6.3999982" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4542-0-1-4-8-6"
+         y="-384.21741"
+         x="757.26514"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1"
+           y="-384.21741"
+           x="757.26514"
+           id="tspan4544-8-1-1-0-8"
+           sodipodi:role="line">3</tspan></text>
+    </g>
+    <g
+       id="g4538-6-9-3-53-6-9"
+       transform="translate(153.25001,967.13783)">
+      <rect
+         style="opacity:1;fill:#ff8000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4540-4-0-67-4-4-5"
+         width="31.999992"
+         height="31.999992"
+         x="750.75"
+         y="-411.13782"
+         ry="6.3999982" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4542-0-1-4-8-6-3"
+         y="-384.21741"
+         x="757.26514"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1"
+           y="-384.21741"
+           x="757.26514"
+           id="tspan4544-8-1-1-0-8-6"
+           sodipodi:role="line">3</tspan></text>
+    </g>
+    <g
+       id="g4538"
+       transform="translate(117.25001,895.13783)">
+      <rect
+         style="opacity:1;fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4540"
+         width="31.999992"
+         height="31.999992"
+         x="750.75"
+         y="-411.13782"
+         ry="6.3999982" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4542"
+         y="-384.20276"
+         x="757.31641"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1"
+           y="-384.20276"
+           x="757.31641"
+           id="tspan4544"
+           sodipodi:role="line">4</tspan></text>
+    </g>
+    <g
+       id="g4538-9"
+       transform="translate(837.25001,1867.1378)">
+      <rect
+         style="opacity:1;fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4540-3"
+         width="31.999992"
+         height="31.999992"
+         x="750.75"
+         y="-411.13782"
+         ry="6.3999982" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4542-4"
+         y="-384.20276"
+         x="757.31641"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1"
+           y="-384.20276"
+           x="757.31641"
+           id="tspan4544-1"
+           sodipodi:role="line">4</tspan></text>
+    </g>
+    <g
+       id="g4538-6-9-4"
+       transform="translate(1005.25,1579.1378)">
+      <rect
+         style="opacity:1;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4540-4-0-6"
+         width="31.999992"
+         height="31.999992"
+         x="750.75"
+         y="-411.13782"
+         ry="6.3999982" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4542-0-1-8"
+         y="-384.41516"
+         x="757.36035"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1"
+           y="-384.41516"
+           x="757.36035"
+           id="tspan4544-8-1-0"
+           sodipodi:role="line">5</tspan></text>
+    </g>
+    <g
+       id="g4538-6-9-4-4"
+       transform="translate(-2.7499924,1207.1378)">
+      <rect
+         style="opacity:1;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4540-4-0-6-5"
+         width="31.999992"
+         height="31.999992"
+         x="750.75"
+         y="-411.13782"
+         ry="6.3999982" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4542-0-1-8-3"
+         y="-384.41516"
+         x="757.36035"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1"
+           y="-384.41516"
+           x="757.36035"
+           id="tspan4544-8-1-0-0"
+           sodipodi:role="line">5</tspan></text>
+    </g>
   </g>
 </svg>
