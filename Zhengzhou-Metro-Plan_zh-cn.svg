@@ -17,7 +17,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Zhengzhou-Metro-Plan_zh-cn.svg">
+   sodipodi:docname="Zhengzhou-Metro-Plan_zh-cn.svg"
+   inkscape:export-filename="/home/m/Zhengzhou-Metro-Plan_zh-cn.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -176,9 +179,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="871.54731"
-     inkscape:cy="953.38543"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1126.8005"
+     inkscape:cy="785.11743"
      inkscape:document-units="px"
      inkscape:current-layer="layer8"
      showgrid="true"
@@ -189,8 +192,8 @@
      inkscape:window-y="18"
      inkscape:window-maximized="0"
      inkscape:object-nodes="true"
-     inkscape:snap-object-midpoints="false"
-     inkscape:snap-center="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
      inkscape:snap-text-baseline="false">
     <inkscape:grid
        type="xygrid"
@@ -297,10 +300,10 @@
      sodipodi:insensitive="true">
     <path
        style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient4607);stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 600,960 252,0 c 12,0 24,12 24,24 l 0,72 c 0,12 12,24 24,24 l 120,0 180,-180 468,0 c 12,0 24,12 24,24 l 0,12 c 0,12 12,24 24,24 l 180,0 c 12,0 24,-12 24,-24 l 0,-36"
+       d="m 600,960 252,0 c 12,0 24,12 24,24 l 0,12 c 0,12 12,24 24,24 l 60,0 119.4919,0.5081 L 1200,900 l 468,0 c 12,0 24,12 24,24 l 0,12 c 0,12 12,24 24,24 l 180,0 c 12,0 24,-12 24,-24 l 0,-36"
        id="path4601"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -356,7 +359,7 @@
     <use
        height="100%"
        width="100%"
-       transform="translate(1032,-732)"
+       transform="translate(1032,-792)"
        id="use4650"
        xlink:href="#path4616"
        y="0"
@@ -366,13 +369,13 @@
        y="0"
        xlink:href="#path4616"
        id="use4652"
-       transform="translate(972,-732)"
+       transform="translate(972,-792)"
        width="100%"
        height="100%" />
     <use
        height="100%"
        width="100%"
-       transform="translate(912,-732)"
+       transform="translate(912,-792)"
        id="use4654"
        xlink:href="#path4616"
        y="0"
@@ -1647,56 +1650,56 @@
     <text
        sodipodi:linespacing="125%"
        id="text5483"
-       y="1111.1484"
-       x="860.3125"
+       y="1047.6484"
+       x="841.0625"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="1111.1484"
-         x="860.3125"
+         y="1047.6484"
+         x="841.0625"
          id="tspan5485"
          sodipodi:role="line">绿城广场</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5487"
-       y="1063.2656"
-       x="929.41406"
+       y="1006.2656"
+       x="924.91406"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="1063.2656"
-         x="929.41406"
+         y="1006.2656"
+         x="924.91406"
          id="tspan5489"
          sodipodi:role="line">医学院</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5491"
-       y="1111.1094"
-       x="969.76562"
+       y="1049.95"
+       x="958.02002"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="1111.1094"
-         x="969.76562"
+         y="1049.95"
+         x="958.02002"
          id="tspan5493"
          sodipodi:role="line">郑州火车站</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5495"
-       y="1027.1875"
-       x="980.27344"
+       y="1049.9399"
+       x="1063.87"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="1027.1875"
-         x="980.27344"
+         y="1049.9399"
+         x="1063.87"
          id="tspan5497"
          sodipodi:role="line">二七广场</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5499"
-       y="943.22656"
-       x="1086"
+       y="942.02002"
+       x="1085.96"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="943.22656"
-         x="1086"
+         y="942.02002"
+         x="1085.96"
          id="tspan5501"
          sodipodi:role="line">人民路</tspan></text>
     <text
@@ -1812,23 +1815,23 @@
     <text
        sodipodi:linespacing="125%"
        id="text3316-0"
-       y="1051.1094"
-       x="1110.0391"
+       y="1002.07"
+       x="1121.9"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="1051.1094"
-         x="1110.0391"
+         y="1002.07"
+         x="1121.9"
          id="tspan3318-7"
          sodipodi:role="line">顺城街</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text3316-0-2"
-       y="979.26562"
-       x="954"
+       y="954.02002"
+       x="929.97998"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:FandolHei;-inkscape-font-specification:'FandolHei Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="979.26562"
-         x="954"
+         y="954.02002"
+         x="929.97998"
          id="tspan3318-7-1"
          sodipodi:role="line">太康路</tspan></text>
     <text
